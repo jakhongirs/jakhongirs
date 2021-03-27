@@ -6,7 +6,7 @@ Jakhongir here. I'm a software developer. Currently, I'm studying at [Westminste
 ### What I'm use? 🛠  
 I prefer React for the frontend, Node.js for backend development. I love everything about JS!
 
-Every coder has their journey. This is mine. [📝](https://t.me/jakhongir_codes/)
+Every coder has their journey. This is mine [📝](https://t.me/jakhongir_codes/).
 
 
 <a href="https://twitter.com/jakhongir_codes" target="_blank">
