@@ -9,18 +9,17 @@ I prefer React for the frontend, Node.js for backend development. I love everyth
 Every coder has their journey. This is mine. [📝](https://t.me/jakhongir_codes/)
 
 
-<a href="https://twitter.com/jakhongir_codes" target="blank">
+<a href="https://twitter.com/jakhongir_codes" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/jakhongir_codes">
 </a>
-
-<a href="https://www.linkedin.com/in/jakhongir-sagdullaev-b0ba53197/" target="blank">
+<a href="https://www.linkedin.com/in/jakhongir-sagdullaev-b0ba53197/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/jakhongir-sagdullaev-b0ba53197/">
 </a>
 
-<a href="mailto:j.sagdullaev31@gmail.com" target="blank">
+<a href="mailto:j.sagdullaev31@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:j.sagdullaev31@gmail.com">
 </a>
 
-<a href="https://medium.com/@jakhongir_codes" target="blank">
+<a href="https://medium.com/@jakhongir_codes" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@jakhongir_codes">
 </a>
