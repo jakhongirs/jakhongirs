@@ -1,5 +1,5 @@
 ## Hi there 👋
-Jakhongir here. I'm a software developer. Currently, I'm studying at [Westminster International University in Tashkent](http://www.wiut.uz/) and my major is Computer Science. Also working as a developer at [Abutech](https://t.me/abutechuz/).
+Jakhongir here. I'm a software developer. Currently, I'm studying at [Westminster International University in Tashkent](http://www.wiut.uz/) and my major is Computer Science.
 
 <img src="https://github.com/jakhongirs/jakhongirs/blob/main/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
